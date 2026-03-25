@@ -1,2 +1,16 @@
-# Smart_Wellness_APP
-MoodMate – Smart Wellness Quiz App MoodMate is an intelligent wellness application that engages users with randomly selected questions to assess their current emotional state. Based on the user's responses, the app accurately determines their mood and provides personalized drink recommendations to help uplift, relax, or energize them accordingly.
+# smart_wellness
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
